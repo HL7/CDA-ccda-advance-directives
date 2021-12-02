@@ -40,16 +40,12 @@ The `backups` directory contains Word files used to produce the final PDFs prese
 </dl>
 
 ## Contents of the package
-<dl>
-    <dt>This file</dt>
-    <dd>README.md</dd>
-</dl>
 
 
 ### STU
 <dl>
     <dt>C-CDA R2.1 Supplemental Templates for Advance Directives</dt>
-    <dd><a href="http://www.hl7.org/ctl.cfm?action=ballots.home&ballot_cycle_id=557&ballot_voter_id=0"><code>CDAR2_IG_CCDA_SUPP_ADR_R1_STU2_2022JAN.pdf</code></a></dd>
+    <dd><a href="http://www.hl7.org/ctl.cfm?action=ballots.home&ballot_cycle_id=557&ballot_voter_id=0"><code>CDAR2_IG_CCDA_VOL3_ADR_R1_D2_2022JAN.pdf</code></a></dd>
 </dl>
 
 ## See also
